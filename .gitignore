@@ -36,3 +36,5 @@ x64/
 
 #TMP files
 .vs/
+
+*vcxproj*
