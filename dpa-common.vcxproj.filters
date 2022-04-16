@@ -11,4 +11,9 @@
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CLI.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
